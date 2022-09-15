@@ -1,6 +1,6 @@
 <h1>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Albondigas </h1>
 <img src="https://theforkedspoon.com/wp-content/uploads/2017/02/albondigas-12-500x500.jpg"
-Albondigas Mexican Soup>
+alt="Albondigas Mexican Soup">
 <p>  Albondigas soup is a traditional Mexican meatball soup ("albondigas" means "meatballs" in Spanish).
     It is our version of comfort food. This Dish is savory and it's perfect for the fall and winter weather.
 Although, seasons do not limit our family to make this dish. It is too delicious not to enjoy year round.
@@ -45,8 +45,9 @@ Although, seasons do not limit our family to make this dish. It is too delicious
 </ol>
 
 <h2>Try Out My Other Recipes</h2>
+<img src="https://www.mexicanplease.com/wp-content/uploads/2019/10/Tinga-Tostadas-12.jpg" alt="Tostada De Tinga">
 <ul>
-    <li>Tostadas De Tinga</li>
+    <li><a href="Tostada De Tinga.html"> Tostada De Tinga</a></li>
 </ul>
 
 <ul>
